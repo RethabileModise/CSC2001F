@@ -1,4 +1,4 @@
-# CS course offered by the University of Cape Town
+#CS course offered by the UCT
 
 
 This projects covered topics on Networking and Operating Systems
